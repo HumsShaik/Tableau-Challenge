@@ -1,0 +1,12 @@
+
+City Bike Analysis -
+
+1. Top 10 start and end stations are Grove St Path, Newport Pkwy, Liberty Light Rail...
+2. Avg age using city bike is 81 with trip duration of 35,422.
+3. Birthyear of Highest Trip Duration is 1938.
+4. % Diff in User type - Subscriber 93.5 % in month of may.
+5. Popular Days to Ride - are weekends.
+6. Highest Trips are done in October.
+7. Highest % diff in Customers are in June and August months.
+8. Highest Trips by Age is Age 51
+
