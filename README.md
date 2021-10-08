@@ -1,4 +1,4 @@
-﻿# Tableau Homework - Citi Bike Analytics
+﻿# Tableau - Citi Bike Analytics
 
 
 https://public.tableau.com/app/profile/humera3714/viz/TableauChallenge_CitiBike_BC/Story1
